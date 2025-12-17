@@ -1,5 +1,7 @@
 # Projeto: Plano de Aula - Desmistificando a Programação com IA
 
+[🔗 Clique aqui para ver o documento do word]([https://www.exemplo.com/coloque-seu-link-aqui](https://gamma.app/docs/Do-Mundo-Real-para-o-Codigo-Classes-e-Objetos-em-Java-oq7ophz1l4y6ymg?mode=doc](https://1drv.ms/w/c/1be5a13df55c8eb6/IQA59Lx81IybRJtUUtaAMakBAV6Y5h22aYKrvvKmcYu7dpY?e=F1vWNf))
+
 [🔗 Clique aqui para ver a Apresentação do Projeto]([https://www.exemplo.com/coloque-seu-link-aqui](https://gamma.app/docs/Do-Mundo-Real-para-o-Codigo-Classes-e-Objetos-em-Java-oq7ophz1l4y6ymg?mode=doc))
 
 Este repositório contém um plano de aula completo desenvolvido como parte de um desafio sobre **Inteligência Artificial Aplicada à Educação**. O objetivo foi utilizar ferramentas de IA Generativa para criar, estruturar e refinar um conteúdo didático inclusivo para o ensino de Programação Orientada a Objetos (Java).
